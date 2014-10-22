@@ -4,6 +4,7 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
+                 [org.immutant/web "2.x.incremental.353"]
                  [io.pedestal/pedestal.service "0.3.1"]
 
                  ;; Remove this line and uncomment one of the next lines to
